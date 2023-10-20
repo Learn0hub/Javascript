@@ -19,3 +19,24 @@ let isTrue = true;
 let person = { name: "Alice", age: 30 };
 let numbers = [1, 2, 3];
 
+
+// Operators
+
+// let a = 5;
+// let b = 3;
+// let sum = a + b; // Addition
+// let isGreater = a > b; // Comparison
+// let isTrue = true;
+// let isFalse = !isTrue; // Logical NOT
+
+
+
+// This is a single-line comment
+
+
+/*
+  This is a
+  multi-line comment
+*/
+
+Functions
