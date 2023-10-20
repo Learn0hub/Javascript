@@ -39,4 +39,12 @@ let numbers = [1, 2, 3];
   multi-line comment
 */
 
-Functions
+// Functions
+
+function sayHello(name) {
+  console.log("Hello, " + name + "!");
+}
+
+const greet = (name) => {
+  console.log(`Hello, ${name}!`);
+}
